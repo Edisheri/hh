@@ -1,0 +1,1 @@
+SJ_API_KEY = "your_super_job_api_key"
